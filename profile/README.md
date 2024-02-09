@@ -50,7 +50,8 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/rosieoh"><img src="https://github.com/SP0F0/.github/assets/62829894/1143e673-12f2-4ddb-9836-66061b1c3e31" width="100px;" alt=""/><br /><sub><b>팀장 : 오태훈</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/rosieoh"><img src="![Uploading 72b99b68aaaedc08-sticker.png…]()
+" width="100px;" alt=""/><br /><sub><b>팀장 : 오태훈</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/re2panda"><img src="https://github.com/SP0F0/.github/assets/62829894/5b52e275-93ec-4117-9541-42d9ee4d2c6a" width="100px;" alt=""/><br /><sub><b>팀원 : 이승렬</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/keg51051"><img src="https://github.com/SP0F0/.github/assets/62829894/89996fac-c626-44e8-ba10-3dcc17252079" width="100px;" alt=""/><br /><sub><b>팀원 : 김어은</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/h0725j"><img src="https://github.com/SP0F0/.github/assets/62829894/fc0c73b5-3bdc-4edf-8c7f-b7b8eff9bf67" width="100px;" alt=""/><br /><sub><b>팀원 : 신수민</b></sub></a><br /></td>
